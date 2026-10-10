@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+__MACOSX/
+UCI HAR Dataset/
+*.npy
+*.pkl
+*.h5
+*.keras
